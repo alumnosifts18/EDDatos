@@ -1,7 +1,0 @@
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\bin\Debug\SugeiSand_ejercicio1.exe.config
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\bin\Debug\SugeiSand_ejercicio1.exe
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\bin\Debug\SugeiSand_ejercicio1.pdb
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\obj\Debug\SugeiSand_ejercicio1.csprojAssemblyReference.cache
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\obj\Debug\SugeiSand_ejercicio1.csproj.CoreCompileInputs.cache
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\obj\Debug\SugeiSand_ejercicio1.exe
-C:\Users\Sugei  M.Sandoval\EDatos_Facu\EDDatos\SugeiSand_ejercicio1\SugeiSand_ejercicio1\obj\Debug\SugeiSand_ejercicio1.pdb

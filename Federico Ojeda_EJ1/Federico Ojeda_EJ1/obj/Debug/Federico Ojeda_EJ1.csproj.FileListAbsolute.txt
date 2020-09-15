@@ -1,7 +1,0 @@
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\bin\Debug\Federico Ojeda_EJ1.exe.config
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\bin\Debug\Federico Ojeda_EJ1.exe
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\bin\Debug\Federico Ojeda_EJ1.pdb
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\obj\Debug\Federico Ojeda_EJ1.csprojAssemblyReference.cache
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\obj\Debug\Federico Ojeda_EJ1.csproj.CoreCompileInputs.cache
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\obj\Debug\Federico Ojeda_EJ1.exe
-C:\Users\Nacho-Fede\Documents\Repositorios\EDO\EDDatos\Federico Ojeda_EJ1\Federico Ojeda_EJ1\obj\Debug\Federico Ojeda_EJ1.pdb

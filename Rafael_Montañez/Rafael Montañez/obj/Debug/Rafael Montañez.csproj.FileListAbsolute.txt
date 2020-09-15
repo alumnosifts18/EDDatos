@@ -1,7 +1,0 @@
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\bin\Debug\Rafael Montañez.exe.config
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\bin\Debug\Rafael Montañez.exe
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\bin\Debug\Rafael Montañez.pdb
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\obj\Debug\Rafael Montañez.csprojAssemblyReference.cache
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\obj\Debug\Rafael Montañez.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\obj\Debug\Rafael Montañez.exe
-C:\Users\usuario\Desktop\Rafael Montañez\Rafael Montañez\obj\Debug\Rafael Montañez.pdb

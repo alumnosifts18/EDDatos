@@ -1,7 +1,0 @@
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\bin\Debug\Tarea14.exe.config
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\bin\Debug\Tarea14.exe
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\bin\Debug\Tarea14.pdb
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\obj\Debug\Tarea14.csprojAssemblyReference.cache
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\obj\Debug\Tarea14.csproj.CoreCompileInputs.cache
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\obj\Debug\Tarea14.exe
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea14\obj\Debug\Tarea14.pdb

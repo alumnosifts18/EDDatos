@@ -1,6 +1,0 @@
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\bin\Debug\Tarea10.exe.config
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\bin\Debug\Tarea10.exe
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\bin\Debug\Tarea10.pdb
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\obj\Debug\Tarea10.exe
-C:\Users\Lionel\Education\IFTS 18\Segundo cuatrimestre\Estructura de datos\Repos\EstructuraDeDatos\Tarea10\obj\Debug\Tarea10.pdb

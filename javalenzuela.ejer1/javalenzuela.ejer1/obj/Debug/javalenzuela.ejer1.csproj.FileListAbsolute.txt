@@ -1,7 +1,0 @@
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\obj\Debug\javalenzuela.ejer1.csprojAssemblyReference.cache
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\obj\Debug\javalenzuela.ejer1.csproj.CoreCompileInputs.cache
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\bin\Debug\javalenzuela.ejer1.exe.config
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\bin\Debug\javalenzuela.ejer1.exe
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\bin\Debug\javalenzuela.ejer1.pdb
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\obj\Debug\javalenzuela.ejer1.exe
-D:\Edatos\fork\EDDatos\javalenzuela.ejer1\javalenzuela.ejer1\obj\Debug\javalenzuela.ejer1.pdb

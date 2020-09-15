@@ -1,7 +1,0 @@
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\bin\Debug\EOdstrcil_Ej1.exe.config
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\bin\Debug\EOdstrcil_Ej1.exe
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\bin\Debug\EOdstrcil_Ej1.pdb
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\obj\Debug\EOdstrcil_Ej1.csprojAssemblyReference.cache
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\obj\Debug\EOdstrcil_Ej1.csproj.CoreCompileInputs.cache
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\obj\Debug\EOdstrcil_Ej1.exe
-D:\EDDatos\fork\EDDatos\EOdstrcil_Ej1\EOdstrcil_Ej1\obj\Debug\EOdstrcil_Ej1.pdb
