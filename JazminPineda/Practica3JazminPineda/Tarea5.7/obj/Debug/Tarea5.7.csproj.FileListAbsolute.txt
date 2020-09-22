@@ -1,0 +1,7 @@
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\bin\Debug\Tarea5.7.exe.config
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\bin\Debug\Tarea5.7.exe
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\bin\Debug\Tarea5.7.pdb
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\obj\Debug\Tarea5.7.csprojAssemblyReference.cache
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\obj\Debug\Tarea5.7.csproj.CoreCompileInputs.cache
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\obj\Debug\Tarea5.7.exe
+C:\Users\jazmin\source\repos\Tarea5\Tarea5.7\obj\Debug\Tarea5.7.pdb
