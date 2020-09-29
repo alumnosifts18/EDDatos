@@ -1,0 +1,7 @@
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\bin\Debug\PRACTICA_CLASE4.exe.config
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\bin\Debug\PRACTICA_CLASE4.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\bin\Debug\PRACTICA_CLASE4.pdb
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\obj\Debug\PRACTICA_CLASE4.csprojAssemblyReference.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\obj\Debug\PRACTICA_CLASE4.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\obj\Debug\PRACTICA_CLASE4.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE4\obj\Debug\PRACTICA_CLASE4.pdb
