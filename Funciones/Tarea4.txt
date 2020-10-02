@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*Analice el código ¿Qué hace este código? Realizar captura de pantalla del
+            código con su resultado y análisis del mismo..*/
+            Console.WriteLine("Tarea4");
+            Console.WriteLine("..........................................");
+            Console.ReadKey();
+
+            {
+                Console.Clear();
+
+                //dibujo de cada linea (bucle externo)
+                for (int fila = 1; fila <= 7; fila++)
+                {
+                    //dibuja espacios en blanco (1er bucle interno)
+                    for (int espacios = 7 - fila; espacios > 0; espacios--)
+                        Console.Write(" ");//espacio en blanco
+
+                    for (int conta = 1; conta < (2 * fila); conta++)
+                        Console.Write("*");
+
+                    Console.WriteLine(" ");
+                }
+                Console.ReadLine();
+
+
+            }
+
+        }
+    }
+}

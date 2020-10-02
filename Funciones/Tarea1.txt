@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double real, resultado;
+            
+            
+            double Signo(double numeroReal)
+            {
+                int numeroEntero;
+                if (numeroReal <= 0)
+                {
+                    numeroEntero = -1;
+                }
+                else if (numeroReal >= 0)
+                {
+                    numeroEntero = 1;
+                }
+                else
+                {
+                    numeroEntero = 0;
+                }
+                return numeroEntero;
+            }
+
+            Console.WriteLine("Ingrese un número real");
+            real = double.Parse(Console.ReadLine());
+
+            resultado = Signo(real);
+            Console.WriteLine(resultado);
+            Console.ReadKey();
+
+        }
+    }
+}

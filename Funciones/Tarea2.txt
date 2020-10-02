@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*Crea una función "Menor" que calcule el menor de dos números enteros que
+            recibirá como parámetros.El resultado será otro número entero.*/
+            Console.WriteLine("Tarea2");
+            Console.WriteLine("..........................................");
+            Console.ReadKey();
+
+            int numero1, numero2, enteroMenor;
+            
+            
+            int Menor(int num1, int num2)
+            {
+                int numeroMenor;
+                if (num1 > num2)
+                {
+                    numeroMenor = num2;
+                }
+                else if (num1 < num2)
+                {
+                    numeroMenor = num1;
+                }
+                else
+                {
+                    numeroMenor = num1;
+                }
+                return numeroMenor;
+            }
+
+            Console.WriteLine("Ingrese un número entero");
+            numero1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese otro número entero");
+            numero2 = int.Parse(Console.ReadLine());
+
+            enteroMenor = Menor(numero1, numero2);
+            Console.WriteLine("El menor es {0} ", enteroMenor);
+            Console.ReadKey();
+
+        }
+    }
+}

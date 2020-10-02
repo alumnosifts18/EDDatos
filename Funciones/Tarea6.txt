@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*Crea una función "SumaCifras" que reciba un numero cualquiera y que
+            devuelva como resultado la suma de sus dígitos. Por ejemplo, si el número fuera 123 la
+            suma sería 6.*/
+            Console.Title = "Sumar cifras";
+            Console.WriteLine("Tarea 6");
+            Console.WriteLine("..........................................");
+            Console.ReadKey();
+
+            int resultado;
+
+            int SumaCifras(String numero)
+            {
+                String numeros = numero;
+                char[] arrayNumeros = numeros.ToCharArray();
+
+                int suma = 0;
+                foreach (char valor in arrayNumeros)
+                {
+
+                    suma += int.Parse(valor.ToString());
+                }
+                return suma;
+                
+            }
+
+
+            Console.WriteLine("Escriba un número");
+            String numeroElegido = Console.ReadLine();
+
+            resultado = SumaCifras(numeroElegido);
+            Console.WriteLine("La suma de la cifra escogida es {0}", resultado);
+            Console.ReadKey();
+
+            
+            
+
+
+
+
+        }
+    }
+}

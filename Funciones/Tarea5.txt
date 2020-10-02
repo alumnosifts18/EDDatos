@@ -1,0 +1,67 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*Crea una calculadora básica, llamada 'calcula', que deberá sumar, restar,
+            multiplicar o dividir los dos números que se le indiquen como parámetros. Ejemplos de
+            su uso sería 'calcula 2 + 3' o 'calcula 5 * 60';. (Utilice Funciones)*/
+            Console.Title = "Calcula la calculadora";
+            Console.WriteLine("Tarea 5");
+            Console.WriteLine("..........................................");
+            Console.ReadKey();
+
+            double numero1, numero2, calculadora;
+
+            double calcula(double valor1, double valor2)
+            {
+                Console.WriteLine("Presione el símbolo de la operación que desea realizar");
+                Console.WriteLine("+ para sumar");
+                Console.WriteLine("- para restar");
+                Console.WriteLine("* para multiplicar");
+                Console.WriteLine("/ para dividir");
+                string userEleccion = Convert.ToString(Console.ReadLine());
+
+                double respuesta = 0;
+                switch(userEleccion)
+                { 
+                    case "+":
+                        respuesta = valor1 + valor2;
+                        break;
+                    case "-":
+                        respuesta = valor1 - valor2;
+                        break;
+                    case "*":
+                        respuesta = valor1 * valor2;
+                        break;
+                    case "/":
+                        respuesta = valor1 / valor2;
+                        break;
+                    
+                }
+                return respuesta;
+                
+            }
+
+            Console.WriteLine("Ingrese el primer número");
+            numero1 = Double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el segundo número");
+            numero2 = Double.Parse(Console.ReadLine());
+            calculadora = calcula(numero1,numero2);
+            Console.WriteLine("..........................................");
+            Console.WriteLine("El resultado es {0} ", calculadora);
+            Console.ReadKey();
+
+
+
+
+        }
+    }
+}
